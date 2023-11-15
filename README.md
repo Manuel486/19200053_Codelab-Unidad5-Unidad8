@@ -1,6 +1,6 @@
 # 19200053-Repositorio de Codlabs y Cuestionarios
 
-Estudiante : `Chunga Vargas Manuel Alberto`
+Estudiante : `Chunga Vargas Manuel Alberto` <br>
 Este repositorio contiene los materiales de los codlabs y cuestionarios de la Unidad 5 hasta la Unidad 6 del curso XYZ.
 
 ## Codlabs
